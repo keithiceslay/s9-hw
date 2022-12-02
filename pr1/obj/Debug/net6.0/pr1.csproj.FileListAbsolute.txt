@@ -1,0 +1,15 @@
+C:\Users\просто Kate\Desktop\чето\курсы\cccccccc\s9\hw\pr1\obj\Debug\net6.0\pr1.csproj.AssemblyReference.cache
+C:\Users\просто Kate\Desktop\чето\курсы\cccccccc\s9\hw\pr1\obj\Debug\net6.0\pr1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\просто Kate\Desktop\чето\курсы\cccccccc\s9\hw\pr1\obj\Debug\net6.0\pr1.AssemblyInfoInputs.cache
+C:\Users\просто Kate\Desktop\чето\курсы\cccccccc\s9\hw\pr1\obj\Debug\net6.0\pr1.AssemblyInfo.cs
+C:\Users\просто Kate\Desktop\чето\курсы\cccccccc\s9\hw\pr1\obj\Debug\net6.0\pr1.csproj.CoreCompileInputs.cache
+C:\Users\просто Kate\Desktop\чето\курсы\cccccccc\s9\hw\pr1\bin\Debug\net6.0\pr1.exe
+C:\Users\просто Kate\Desktop\чето\курсы\cccccccc\s9\hw\pr1\bin\Debug\net6.0\pr1.deps.json
+C:\Users\просто Kate\Desktop\чето\курсы\cccccccc\s9\hw\pr1\bin\Debug\net6.0\pr1.runtimeconfig.json
+C:\Users\просто Kate\Desktop\чето\курсы\cccccccc\s9\hw\pr1\bin\Debug\net6.0\pr1.dll
+C:\Users\просто Kate\Desktop\чето\курсы\cccccccc\s9\hw\pr1\bin\Debug\net6.0\pr1.pdb
+C:\Users\просто Kate\Desktop\чето\курсы\cccccccc\s9\hw\pr1\obj\Debug\net6.0\pr1.dll
+C:\Users\просто Kate\Desktop\чето\курсы\cccccccc\s9\hw\pr1\obj\Debug\net6.0\refint\pr1.dll
+C:\Users\просто Kate\Desktop\чето\курсы\cccccccc\s9\hw\pr1\obj\Debug\net6.0\pr1.pdb
+C:\Users\просто Kate\Desktop\чето\курсы\cccccccc\s9\hw\pr1\obj\Debug\net6.0\pr1.genruntimeconfig.cache
+C:\Users\просто Kate\Desktop\чето\курсы\cccccccc\s9\hw\pr1\obj\Debug\net6.0\ref\pr1.dll
